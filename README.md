@@ -243,7 +243,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost optuna joblib j
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/samuelmwai/Titanic_Survival_Prediction.git
+   git clone https://github.com/samuel-mwai/Titanic_Survival_Prediction.git
    ```
 
 2. Navigate into the project:
@@ -297,7 +297,7 @@ The resulting CSV follows the expected two-column structure for a Titanic compet
 
 Data Science & Analytics | Machine Learning | Python | Data Analysis
 
-GitHub: https://github.com/samuelmwai
+GitHub: https://github.com/samuel-mwai
 
 ## 📄 License
 
